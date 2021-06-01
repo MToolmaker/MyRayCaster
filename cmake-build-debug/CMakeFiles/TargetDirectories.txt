@@ -1,0 +1,3 @@
+/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir

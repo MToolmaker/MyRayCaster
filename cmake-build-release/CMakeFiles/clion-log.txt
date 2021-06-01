@@ -1,0 +1,4 @@
+"/Users/ivan.yarkov/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/211.7142.21/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /Users/ivan.yarkov/CLionProjects/untitled2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release

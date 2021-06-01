@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled2">
+				<Option output="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/untitled2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ivan.yarkov/CLionProjects/untitled2/include"/>
+					<Add directory="/Users/ivan.yarkov/CLionProjects/untitled2/tests/include"/>
+					<Add directory="/usr/local/Cellar/libpng/1.6.37/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 untitled2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled2/fast">
+				<Option output="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/untitled2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ivan.yarkov/CLionProjects/untitled2/include"/>
+					<Add directory="/Users/ivan.yarkov/CLionProjects/untitled2/tests/include"/>
+					<Add directory="/usr/local/Cellar/libpng/1.6.37/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 untitled2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/ivan.yarkov/CLionProjects/untitled2/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ivan.yarkov/CLionProjects/untitled2/include/olcPixelGameEngine.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/Users/ivan.yarkov/CLionProjects/untitled2/main.cpp">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/usr/local/Cellar/libpng/1.6.37/include/png.h">
+			<Option target="untitled2"/>
+		</Unit>
+		<Unit filename="/Users/ivan.yarkov/CLionProjects/untitled2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
